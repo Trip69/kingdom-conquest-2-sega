@@ -1,0 +1,43 @@
+/*
+body, html {
+    max-width:500px;
+}
+*/
+img, div{
+    width:100%;
+    max-width:1000px;
+    text-align:center;
+}
+
+table {
+    display: inline-block;
+}
+
+td {
+    text-align: left;
+}
+
+th, p, a, h1 {
+    text-align: center;
+}
+
+a:hover {
+}
+
+#container {
+    max-width:800px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#center, .center {
+    text-align: center;
+}
+
+#left, .left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta http-equiv="Expires" content="Fri, Jan 01 1900 00:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=Shift-JIS">
+<meta http-equiv="Lang" content="en">
+<meta name="author" content="Never You Mind">
+<meta http-equiv="Reply-to" content="@.com">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="creation-date" content="06/01/2011">
+<meta name="revisit-after" content="15 days">
+<meta name="viewport" content="width=420" />
+<title>KC2 Entrench</title>
+<link rel="stylesheet" type="text/css" href="template/kc.css">
+<script language="JavaScript" type="text/javascript">
+//setTimeout(function() { run_on_delay(); }, Xwait_timeX);
+
+function run_on_delay()
+{
+    history.go(-1);
+}
+
+function language(sender)
+{
+    window.location = 'ent.php?lang=' + sender.value;
+}
+
+</script>
+</head>
+<body>
+<div id="container">
+    <img align="middle" src="images/kc2.jpg" alt="kc2">
+    <p>言語 
+    <select id="lang" name="lang" onchange="language(this);">
+        <option value="0"></option>
+        <option value="1">英語</option>
+        <option value="2">日本の</option>
+        <option value="3">中国の</option>
+    </select></p>
+    <h1>定着プレーヤー</h1>
+    
+    <form action="ent.php" method="post" target="_self">
+    <table>
+        <tr><td>名前</td><td><input name="name" type="text" /></td><td></td></tr>
+        <tr><td colspan="2" class="center"><input type="submit" value="提出する"></td></tr>
+    </table>
+    <input type="hidden" name="action" value="set_ent">
+    <input type="hidden" name="set" value="true">
+    </form>
+    
+    <h1>塹壕</h1>
+    <p>注意してください。時間は、ユーザデータに基づいている。時間はここにリストされている前のプレイヤーが塹壕から出てくるでしょう</p>
+    
+    <form action="ent.php" method="post" target="_self">
+    <table>
+        <tr><th>名前</th><th>ステータス</th></tr>
+        XentX
+        </table>
+        <input type="hidden" name="action" value="set_ent">
+        <input type="hidden" name="set" value="false">
+        <p><input type="submit" value="キャンセル"></p>
+    </form>
+    <!--<p><a href="javascript:history.back()">Back</a></p>-->
+    
+</div>
+</body>
+</html>
