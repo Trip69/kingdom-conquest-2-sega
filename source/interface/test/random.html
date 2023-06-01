@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Expires" content="Fri, Jan 01 1900 00:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Last-Modified" content="Tue, 15 Nov 3000 12:45:26 GMT">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Lang" content="en">
+<meta name="author" content="">
+<meta http-equiv="Reply-to" content="@.com">
+<meta name="generator" content="PhpED 6.0">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="creation-date" content="06/01/2011">
+<meta name="revisit-after" content="15 days">
+<title>Untitled</title>
+<link rel="stylesheet" type="text/css" href="my.css">
+<script language="javascript">
+
+var test_seed = 14062307848373;
+
+//(seed ^ 0x5DEECE66DL) & ((1L << 48) - 1)
+//
+var seed = (test_seed ^ 0x5DEECE66D) & ((1 << 48) - 1);
+
+function get_rand()
+{
+    new_seed = (seed * 0x5DEECE66D + 0xB) & ((1 << 48) - 1);
+    new_seed >>> 48 - 32;                          
+    return new_seed;
+}
+
+function get_text()
+{
+    echo = ($test_seed ^ 0x5DEECE66D) + ' part1\r\n';
+    echo += ((1 << 48) - 1) + ' part2\r\n';
+    echo += $test_seed + ' epoch\r\n';
+    echo += seed + ' seed\r\n';
+    echo += get_rand() + ' random\r\n';
+    return echo;
+}
+
+function set_res()
+{
+    document.getElementById('res').innerText = get_text();
+}
+
+</script>
+</head>
+<body>
+<p id='res' onclick="set_res();">Click Me</p>
+<p>Version 2</p>
+<applet code="the_randoma_g.class" width=2000 height=200>
+</applet>
+<p>End</p>
+
+</body>
+</html>

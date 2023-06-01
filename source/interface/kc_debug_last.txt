@@ -1,0 +1,55 @@
+12:40 AM Debug trace Tomfoolery5
+{"res_code":12001,"error_msg":"This account is currently unusable. (12001)"}
+12:39:49 AM 115.29.246.204:80 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.7&_tm_=1421973589677
+12:40:01 AM 115.29.246.204:80 http://common.kingdom-conquest2.com/socialsv/common/Auth.do world_id=1045&kc_id=Tomfoolery5&password=Tomfoolery1!&language=1&check_code=1.4.7&cid=&serial=&_tm_=1421973601749
+12:40:13 AM 115.29.246.204:80 http://w1045-sim.kingdom-conquest2.com/socialsv/Login.do user_id=4880&language=1&device_type=0&uuid=4241B96ABEDEFDA47722AF72E0978C8D&_tm_=1421973613405
+
+12:47 AM Debug trace ArghDam1
+{"res_code":12001,"error_msg":"This account is currently unusable. (12001)"}
+12:47:30 AM 187.60.41.9:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.7.0&_tm_=1421974050460
+12:47:34 AM 187.60.41.9:8080 http://common.kingdom-conquest2.com/socialsv/common/Auth.do world_id=1045&kc_id=ArghDam1&password=ArghDam1&language=1&check_code=1.4.7.0&cid=&serial=&_tm_=1421974054540
+12:47:37 AM 187.60.41.9:8080 http://w1045-sim.kingdom-conquest2.com/socialsv/Login.do user_id=589&language=1&device_type=0&uuid=a8f7dd89-f1c2-8e1b-ec31-e82d5cfc6650&_tm_=1421974057334
+
+12:47 AM Debug trace ArghDam2
+{"res_code":12001,"error_msg":"This account is currently unusable. (12001)"}
+12:47:42 AM 36.250.74.87:80 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.7.0&_tm_=1421974062100
+12:47:43 AM 36.250.74.87:80 http://common.kingdom-conquest2.com/socialsv/common/Auth.do world_id=1045&kc_id=ArghDam2&password=ArghDam1&language=1&check_code=1.4.7.0&cid=&serial=&_tm_=1421974063448
+12:47:44 AM 36.250.74.87:80 http://w1045-sim.kingdom-conquest2.com/socialsv/Login.do user_id=600&language=1&device_type=0&uuid=a2650292-114f-61e3-7587-4ef110832b7c&_tm_=1421974064961
+
+12:48 AM Debug trace Numerous50
+{"res_code":12001,"error_msg":"This account is currently unusable. (12001)"}
+12:48:08 AM 194.44.221.137:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.7.0&_tm_=1421974088969
+12:48:11 AM 194.44.221.137:8080 http://common.kingdom-conquest2.com/socialsv/common/Auth.do world_id=1045&kc_id=Numerous50&password=Numerous1&language=1&check_code=1.4.7.0&cid=&serial=&_tm_=1421974091656
+12:48:16 AM 194.44.221.137:8080 http://w1045-sim.kingdom-conquest2.com/socialsv/Login.do user_id=3768&language=1&device_type=0&uuid=ba1ced25-c6d2-33e7-b288-050835f1fd8a&_tm_=1421974096852
+
+01:17 AM Debug trace OkSmall23
+{"res_code":12001,"error_msg":"This account is currently unusable. (12001)"}
+01:16:45 AM 190.199.237.134:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.7.0&_tm_=1421975805992
+01:17:01 AM 190.199.237.134:8080 http://common.kingdom-conquest2.com/socialsv/common/Auth.do world_id=1045&kc_id=OkSmall23&password=OkSmall1&language=1&check_code=1.4.7.0&cid=&serial=&_tm_=1421975821310
+01:17:23 AM 190.199.237.134:8080 http://w1045-sim.kingdom-conquest2.com/socialsv/Login.do user_id=3823&language=1&device_type=0&uuid=8a964a75-4ca4-21e3-4899-ecc316228a11&_tm_=1421975843783
+
+01:28 AM Debug trace OkSmall26
+{"res_code":12001,"error_msg":"This account is currently unusable. (12001)"}
+01:28:01 AM 218.60.56.95:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.7.0&_tm_=1421976481996
+01:28:06 AM 218.60.56.95:8080 http://common.kingdom-conquest2.com/socialsv/common/Auth.do world_id=1045&kc_id=OkSmall26&password=OkSmall1&language=1&check_code=1.4.7.0&cid=&serial=&_tm_=1421976486794
+01:28:07 AM 218.60.56.95:8080 http://w1045-sim.kingdom-conquest2.com/socialsv/Login.do user_id=3826&language=1&device_type=0&uuid=7c071c70-2b5b-67fd-fa9b-2e8e3ddb9e80&_tm_=1421976487914
+
+01:59 AM Debug trace WorldOne1
+{"res_code":12001,"error_msg":"This account is currently unusable. (12001)"}
+01:59:26 AM 60.250.81.97:80 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do10:01 PM Debug trace Numerous
+{"res_code":12001,"error_msg":"This account is currently unusable. (12001)"}
+10:01:50 PM 207.91.10.234:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.7.0&_tm_=1422482510219
+10:01:51 PM 207.91.10.234:8080 http://common.kingdom-conquest2.com/socialsv/common/Auth.do world_id=1045&kc_id=Numerous&password=Numerous1&language=1&check_code=1.4.7.0&cid=&serial=&_tm_=1422482511929
+10:01:52 PM 207.91.10.234:8080 http://w1045-sim.kingdom-conquest2.com/socialsv/Login.do user_id=3722&language=1&device_type=0&uuid=1f76608d-9584-b2bd-72fb-e8676059b01c&_tm_=1422482512745
+
+10:02 PM Debug trace Numerous
+{"res_code":12001,"error_msg":"This account is currently unusable. (12001)"}
+10:02:34 PM 207.91.10.234:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.7.0&_tm_=1422482554667
+10:02:35 PM 207.91.10.234:8080 http://common.kingdom-conquest2.com/socialsv/common/Auth.do world_id=1045&kc_id=Numerous&password=Numerous1&language=1&check_code=1.4.7.0&cid=&serial=&_tm_=1422482555793
+10:02:35 PM 207.91.10.234:8080 http://w1045-sim.kingdom-conquest2.com/socialsv/Login.do user_id=3722&language=1&device_type=0&uuid=1f76608d-9584-b2bd-72fb-e8676059b01c&_tm_=1422482555890
+
+11:49 PM Debug trace Avithan
+{"res_code":12612,"error_msg":"This ID has already been used. Check to make sure you have entered the correct ID. (12612)"}
+11:49:16 PM 207.91.10.234:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.7&_tm_=1422488956816
+11:49:16 PM 207.91.10.234:8080 http://common.kingdom-conquest2.com/socialsv/common/Auth.do world_id=1045&kc_id=Avithan&password=Sillykids3&language=1&check_code=1.4.7&cid=kc2_wizs_01&serial=80b8abf111538aa130f6a47edcd61018a8de871b&_tm_=1422488956763
+

@@ -1,0 +1,21 @@
+Jimmybean21
+06:48:31 PM 77.222.147.178:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:31 PM 164.138.237.251:80 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:31 PM 88.255.149.105:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:31 PM 118.175.94.220:80 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:31 PM 222.246.232.55:80 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:31 PM 80.191.171.44:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:31 PM 190.121.230.148:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:31 PM 42.202.146.58:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:32 PM 187.254.212.91:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:32 PM 212.4.137.55:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:32 PM 92.63.103.56:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:32 PM 91.109.195.186:80 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:32 PM 177.152.174.141:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:32 PM 82.146.147.112:80 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:32 PM 202.162.196.226:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:32 PM 37.59.101.107:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:32 PM 163.177.79.4:80 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:32 PM 194.247.165.118:80 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:32 PM 120.27.38.6:80 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177
+06:48:32 PM 177.69.254.253:8080 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446835711177

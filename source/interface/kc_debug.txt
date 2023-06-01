@@ -1,0 +1,5 @@
+03:59 PM Debug trace ArghDam
+{"res_code":61027,"error_msg":"This world has been unified. Please select the unified world and begin the game. (61027)"}
+03:59:31 PM 101.226.12.223:80 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446825571618
+03:59:34 PM 101.226.12.223:80 http://common.kingdom-conquest2.com/socialsv/common/Auth.do world_id=1045&kc_id=ArghDam&password=ArghDam1&language=1&check_code=1.4.8.0&cid=&serial=&_tm_=1446825574745
+

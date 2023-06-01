@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Expires" content="Fri, Jan 01 1900 00:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Lang" content="en">
+<meta name="author" content="">
+<meta http-equiv="Reply-to" content="@.com">
+<meta name="generator" content="PhpED 6.0">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="creation-date" content="06/01/2011">
+<meta name="revisit-after" content="15 days">
+<meta name="viewport" content="width=520" />
+<title>KC2 Alt log</title>
+<link rel="stylesheet" type="text/css" href="template/kc.css">
+<style>
+td {
+    text-align: center;
+}
+</style>
+<script language="JavaScript" type="text/javascript">
+
+//window.alert("sometext");
+
+function sell(sender)
+{
+    
+    document.getElementById("id").value = sender.parentNode.parentNode.childNodes[2].innerText;
+    document.getElementById("username").value = sender.parentNode.parentNode.childNodes[3].innerText;
+    document.getElementById("world").value = sender.parentNode.parentNode.childNodes[4].innerText;
+    
+    //target = sender.parentNode.parentNode.childNodes[2].innerText;
+    //window.alert(target);
+}
+</script>
+</head>
+<body>
+    <div id="container">
+        <img align="middle" src="images/kc2.jpg" alt="kc2">
+            <p style="font-weight: bold;">This page is PRIVATE for Batgig users only</p>
+            <!--
+            <h1>Sell</h1>
+            <form id="sell_form" action="kc_sell.php" method="post" target="_self">
+            <table>
+            <tr>
+                <td class="right">Device</td>
+                <td class="left">
+                    <select name="device" id="device">
+                        <option value="android">Android</option>
+                        <option value="apple">Apple</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td class="right">World</td>
+                <td><input name="world" id="world" type="textbox"></td>
+            </tr>
+            <tr>
+                <td class="right">Card ID</td>
+                <td><input name="id" id="id" type="textbox"></td>
+            </tr>
+            <tr>
+                <td class="right">Price</td>
+                <td><input name="price" type="textbox" value="10"></td>
+            </tr>
+            <tr>
+                <td class="right">Seller</td>
+                <td>
+                    <select name="seller">
+                        <option value="">Please select</option>
+                        <option value="Trip">Trip</option>
+                        <option value="Trip Alt">Trip Alt</option>
+                        <option value="Pathius">Pathius</option>
+                        <option value="Pathius Alt">Pathius Alt</option>
+                        <option value="Sharingan">Sharingan</option>
+                        <option value="Sharingan Alt">Sharingan Alt</option>
+                        <option value="Hannnnky">Hannnnky</option>
+                        <option value="Hannnnky Alt">Hannnnky Alt</option>
+                        <option value="Lipkix">Lipkix</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td class="right">Cookie</td>
+                <td><input name="cookie" id="cookie" type="textbox" width="51"></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="submit" value="Sell"></td>
+            </tr>
+            </table>
+            <input id='username' type="hidden" name="username">
+            </form>
+            -->
+            <h1>Card Log</h1>
+            <table id="table_center">
+            <tr><th style='text-align:right'>Card</th><th>Count</th></tr>
+            XtotalsX
+            </table>
+            <p>Total XtotalX</p>
+            <table id="table_center">
+            <tr><th>Card</th><th>Awake</th><th>Skill XP</th><th>Skill</th><th>Owner</th><th>Tutorial</th></tr>
+XechoX
+            </table>
+            <!--<p><button id="center" onclick="document.getElementById('sell_form').submit();">Sell</button></p>-->
+    </div>
+</body>
+</html>

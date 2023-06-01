@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Expires" content="Fri, Jan 01 1900 00:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Lang" content="en">
+<meta name="author" content="">
+<meta http-equiv="Reply-to" content="@.com">
+<meta name="generator" content="PhpED 6.0">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="creation-date" content="06/01/2011">
+<meta name="revisit-after" content="15 days">
+<link rel="stylesheet" type="text/css" href="template/kc.css">
+<script language="JavaScript" type="text/javascript">
+
+setTimeout(function() { run_on_delay(); }, 2500);
+
+function run_on_delay()
+{
+    if ("Xauto_tutorialX"=="true")
+        document.getElementById("tutorial").click();
+}
+</script>
+<title>KC2 Interface</title>
+</head>
+<body>
+    <div id="container">
+        <img align="middle" src="images/kc2.jpg" alt="kc2">
+        <h1>XusernameX</h1>
+        <form id="main_form" action="kc_action.php" method="post" target="_self">
+            <input type="hidden" name="cookie" value="XcookieX">
+            <input type="hidden" name="world" value="XworldX">
+            <input type="hidden" name="device" value="XdeviceX">
+            <input type="hidden" name="user_id" value="Xuser_idX">
+            <input type="hidden" name="username" value="XusernameX">
+            <input type="hidden" name="password" value="XpasswordX">
+            <input type="hidden" name="field_id" value="Xfield_idX">
+            <input type="submit" name="town" value="Town"><br />
+            <input type="submit" name="units" value="Units"><br />
+            <input type="submit" name="tutorial" value="Tutorial" id="tutorial"><br />
+            Do tutorial stage <input type="text" name="tutorial_stage">
+            <h1>Batgig</h1>
+            <p><input type="submit" name="auto_check_now" value="Check"></p>
+            <p>
+                <input type="checkbox" name="auto" value="true" XautoX>Enable<br />
+                Login After <input type="text" name="auto_login" value="Xauto_loginX" style="width:20px;"> minutes<br />
+                <input type="checkbox" name="auto_arena" value="true" Xauto_arenaX>Auto Arena<br />
+                Use cookie <input type="text" name="auto_cookie" value=""><br />
+            </p>
+            <p><input type="submit" name="batgig_settings" value="Save"><br /></p>
+        </form>
+    </div>
+</body>
+</html>
