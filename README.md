@@ -11,5 +11,5 @@ The code was used to control over 2000 bots on SEGA servers and includes many ex
  
  # Render Engine
  
- I I wrote my own (very simple) rendering engine to generate the output. Using html files with XXXfooXXX as placesholders for generated text.
+ I I wrote my own (very simple) rendering engine to generate the output. Using html files with XfooX as placesholders for generated text.
  in this project it is located [here](source/interface/include/template.php)
