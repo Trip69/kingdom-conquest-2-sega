@@ -1,0 +1,7 @@
+[29-Jan-2015 12:00:02 Europe/London] PHP Warning:  unlink(/home/boy/public_html/images/kc/interface/proxy_failed.txt): No such file or directory in /home/boy/public_html/images/kc/interface/cron/bean.php on line 8
+[06-Nov-2015 13:01:02 Europe/London] PHP Warning:  copy(/home/boy/public_html/images/kc/interface/cron/cron_complete.txt): failed to open stream: No such file or directory in /home/boy/public_html/images/kc/interface/cron/bean.php on line 2
+[06-Nov-2015 13:01:02 Europe/London] PHP Warning:  copy(/home/boy/public_html/images/kc/interface/kc_debug.txt): failed to open stream: No such file or directory in /home/boy/public_html/images/kc/interface/cron/bean.php on line 3
+[06-Nov-2015 13:01:02 Europe/London] PHP Warning:  unlink(/home/boy/public_html/images/kc/interface/cron/cron_complete.txt): No such file or directory in /home/boy/public_html/images/kc/interface/cron/bean.php on line 4
+[06-Nov-2015 13:01:02 Europe/London] PHP Warning:  unlink(/home/boy/public_html/images/kc/interface/kc_debug.txt): No such file or directory in /home/boy/public_html/images/kc/interface/cron/bean.php on line 5
+[06-Nov-2015 13:01:02 Europe/London] PHP Warning:  unlink(/home/boy/public_html/images/kc/interface/error_log): No such file or directory in /home/boy/public_html/images/kc/interface/cron/bean.php on line 7
+[06-Nov-2015 13:01:02 Europe/London] PHP Warning:  unlink(/home/boy/public_html/images/kc/interface/proxy_failed.txt): No such file or directory in /home/boy/public_html/images/kc/interface/cron/bean.php on line 8

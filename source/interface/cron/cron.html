@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Expires" content="Fri, Jan 01 1900 00:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Lang" content="en">
+<meta name="author" content="">
+<meta http-equiv="Reply-to" content="@.com">
+<meta name="generator" content="PhpED 6.0">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="creation-date" content="06/01/2011">
+<meta name="revisit-after" content="15 days">
+<meta name="viewport" content="width=420" />
+<title>KC2 Cron</title>
+<link rel="stylesheet" type="text/css" href="../template/kc.css">
+<script language="JavaScript" type="text/javascript">
+
+var count=0;
+var user_action=false;
+
+function increase_user() {
+    return;
+    if (user_action) return;
+    count++;
+    value = document.getElementById("account").value;
+    document.getElementById("username").value = value + count;
+}
+
+function loginchange(reset) {
+    count=0;
+    var value;
+    
+    value = document.getElementById("account").value;
+    account_name = value;
+    
+    if (reset) current=0;
+    
+    document.getElementById("world").selectedIndex  = 0;
+    document.getElementById("device").selectedIndex  = 0;
+    document.getElementById("username").value = value;
+    document.getElementById("password").value = value + "1";
+    
+    switch (value) {
+        //World 1 (45)
+        case 'TomdickHary':
+            document.getElementById("device").selectedIndex  = 1;
+            document.getElementById("password").value = 'Tomdick!1';
+            break;
+        case 'Tomfoolery':
+            document.getElementById("device").selectedIndex  = 1;
+            document.getElementById("password").value = 'Tomfoolery1!';
+            break;
+        case 'Delta1':
+        case 'DynastyA':
+        case 'DynastyC':
+        case 'DynastyD':
+        case 'DynastyE':
+            document.getElementById("password").value = 'Delta001';
+            break;
+        case 'Joesmith':
+            document.getElementById("password").value = 'Joesmith*2';
+        case 'IgnoreMe':
+            //document.getElementById("world").selectedIndex  = 0;
+            break;
+        //Apple
+        case 'Comwine':
+            document.getElementById("device").selectedIndex  = 1;
+            break;
+        case 'Uhg':
+            document.getElementById("password").value = 'Asdfghjk1';
+            document.getElementById("device").selectedIndex  = 1;
+            break;
+        //Passwords
+        //World KC1 (44)
+        case 'WorldOne':
+        case 'SameSame':
+            document.getElementById("world").selectedIndex  = 9;
+            break;
+        case 'Youtube1':
+            document.getElementById("password").value = 'Youtube2';
+            document.getElementById("world").selectedIndex  = 9;
+            break;            
+        case 'Carol03':
+            document.getElementById("password").value = 'Dade2254';
+            document.getElementById("world").selectedIndex  = 9;
+            break;
+        //World 33 (43)
+        case 'BrokenIt':
+            document.getElementById("password").value = 'OoopsBroken1';
+            document.getElementById("world").selectedIndex  = 8;
+            break;
+    }
+}
+</script>
+</head>
+<body>
+<div id="container">
+    <img align="middle" src="../images/kc2.jpg" alt="kc2">
+    <p style="font-weight: bold;">This page is PRIVATE for Batgig users only</p>
+    
+    <h1>Links</h1>
+    <a href="http://www.somedodgywebsite.com/images/kc/interface/cron/cron_complete.txt">Complete</a><br /><br />
+    <a href="http://www.somedodgywebsite.com/images/kc/interface/kc_debug.txt">KC Debug</a><br /><br />
+    <a href="http://www.somedodgywebsite.com/images/kc/interface/last_message.txt">Last Message</a><br /><br />
+    <a href="http://www.somedodgywebsite.com/images/kc/interface/cron/out.txt">Cron Out</a><br />
+    <a href="http://www.somedodgywebsite.com/images/kc/interface/kc_error.txt">KC Error</a><br />
+    <a href="http://www.somedodgywebsite.com/images/kc/interface/proxy_failed.txt">Proxy Failed</a><br />
+    <h1>Operations</h1>
+    <a href="options.php?enable=true">Enable Site</a><br />
+    <a href="options.php?enable=false">Disable Site</a><br />
+    <a href="options.php?cron=true">Enable Cron</a><br />
+    <a href="options.php?cron=false">Disable Cron</a><br />
+    <a href="options.php?clear=all">Clear Logs</a><br />
+    <h1>Accounts</h1>
+        <table align="center">
+        <tr>
+            <td>Account</td>
+            <td>
+                    <select id="account" onchange="loginchange()">
+                        <option>Jimmybean</option>
+                        <option>Numerous</option>
+                        <option>Comwine</option>
+                        <option>IgnoreHim</option>
+                        <option>OkSmall</option>
+                        <option>TimeWill</option>
+                        <option>ArghDam</option>
+                        <option>Tomfoolery</option>
+                        <option>TomdickHary</option>
+                        <option>Joesmith</option>
+                        <option>IgnoreMe</option>
+                        <option>Delta1</option>
+                        <option>DynastyA</option>
+                        <option>DynastyC</option>
+                        <option>DynastyD</option>
+                        <option>DynastyE</option>
+                        <option>Uhg</option>
+                        <option>WorldOne</option>
+                        <option>Carol03</option>
+                        <option>SameSame</option>
+                        <option>Youtube1</option>
+                        <option>BrokenIt</option>
+                       </select>
+            </td>
+        </tr>
+        </table>
+
+    <h1>Start Cron</h1>
+    <form action="daily.php" method="post" name="Start" target="_self">
+    <table align="center">
+        <tr>
+            <td>Device</td>
+            <td id="left">
+                <select name="device" id="device">
+                    <option value="android">Android</option>
+                    <option value="apple">Apple</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>World</td>
+            <td id="left">
+                <select name="world" id="world">
+                    <option value="45">1</option>
+                    <option value="40">2</option>
+                    <option value="32">5</option>
+                    <option value="36">6</option>
+                    <option value="24">20</option>
+                    <option value="31">26</option>
+                    <option value="34">28</option>
+                    <option value="39">31</option>
+                    <option value="43">33</option>
+                    <option value="44">KC1</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>KCID</td>
+            <td><input name="username" type="text" id="username" onchange="user_action=true;"/></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td><input name="password" type="text" id="password" /></td>
+        </tr>
+        <tr><td id="center" colspan="2">Force <input name="force" type=checkbox checked="checked" /></td></tr>
+        <tr><td id="center" colspan="2"><input name="logon" type="submit" value="Start" /></td></tr>
+    </table>
+    <input type="hidden" name="batgig" value="true">
+    </form>
+    <h1>Batch</h1>
+    <form action="daily.php" method="POST">
+    <table>
+    <tr>
+        <td>World</td>
+        <td id="left">
+            <select name="batch">
+                <option value="bank">Banks</option>
+                <option value="0">Jimmybean</option>
+                <option value="1">Numerous</option>
+                <option value="2">Comwine</option>
+                <option value="3">IgnoreHim</option>
+                <option value="4">OkSmall</option>
+                <option value="5">TimeWill</option>
+                <option value="6">ArghDam</option>
+                <option value="7">Tomfoolery</option>
+                <option value="8">TomdickHary</option>
+                <option value="9">Joesmith</option>
+                <option value="10">IgnoreMe</option>
+                <option value="11">WorldOne</option>
+                <option value="12">Carol03</option>
+                <option value="13">SameSame</option>
+                <option value="14">Youtube1</option>
+                <option value="15">Delta</option>
+                <option value="16">DynastyA</option>
+                <option value="17">DynastyC</option>
+                <option value="18">DynastyD</option>
+                <option value="19">DynastyE</option>
+                <option value="20">Uhg</option>
+           </select>
+        </td>
+    </tr>
+    <tr><td id="center" colspan="2">Force <input name="force" type=checkbox checked="checked" /></td></tr>
+    <tr><td id="center" colspan="2"><input name="logon" type="submit" value="Start" /></td></tr>
+    </table>
+    </form>
+</div>  
+</body>
+</html>

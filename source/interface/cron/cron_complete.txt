@@ -1,0 +1,128 @@
+01:01 PM Jimmybean batch v1.2.7
+01:01 PM Jimmybean1
+01:01 PM Bank batch v1.2.7
+01:01 PM a66711515
+ Error Jimmybean1 Can't Connect
+01:26 PM Jimmybean2
+01:27 PM Error a66711515 Can't Connect
+01:27 PM b66711515
+01:27 PM Error b66711515 Can't Connect
+01:27 PM a13798528950
+ Error Jimmybean2 Can't Connect
+01:52 PM Jimmybean3
+ Error Jimmybean3 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446817971879 Unable to connect.
+01:52 PM Jimmybean4
+01:53 PM Error a13798528950 Can't Connect
+01:53 PM 121212
+01:53 PM Error 121212 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446817995807 Unable to connect.
+01:53 PM k025937
+ Error Jimmybean4 Can't Connect
+02:17 PM Jimmybean5
+02:19 PM Error k025937 Can't Connect
+02:19 PM a98421771
+ Error Jimmybean5 Can't Connect
+02:19 PM Jimmybean6
+02:29 PM Error a98421771 Can't Connect
+02:29 PM b98421771
+02:31 PM Error b98421771 Can't Connect
+02:31 PM Jimmybean
+02:31 PM Error Jimmybean http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446820263186 Unable to connect.
+02:31 PM Numerous
+ Error Jimmybean6 Can't Connect
+02:45 PM Jimmybean7
+ Error Jimmybean7 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446821120580 Unable to connect.
+02:45 PM Jimmybean8
+02:56 PM Error Numerous Can't Connect
+02:56 PM IgnoreHim
+ Error Jimmybean8 Can't Connect
+03:11 PM Jimmybean9
+ Error Jimmybean9 Can't Connect
+03:21 PM Jimmybean10
+ Error Jimmybean10 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446823292386 Unable to connect.
+03:21 PM Jimmybean11
+03:22 PM Error IgnoreHim Can't Connect
+03:22 PM OkSmall
+ Error Jimmybean11 Can't Connect
+03:47 PM Jimmybean12
+ Error Jimmybean12 Can't Connect
+03:47 PM Jimmybean13
+03:59 PM Error OkSmall Can't Connect
+03:59 PM TimeWill
+03:59 PM Error TimeWill http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446825570975 Unable to connect.
+03:59 PM ArghDam
+03:59 PM Error ArghDam {"res_code":61027,"error_msg":"This world has been unified. Please select<BR>the unified world and begin the game.<BR>(61027)"}
+03:59 PM Tomfoolery
+03:59 PM Error Tomfoolery Can't Connect
+03:59 PM TomdickHary
+03:59 PM Error TomdickHary http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8&_tm_=1446825585223 Unable to connect.
+03:59 PM Joesmith
+04:10 PM Error Joesmith Can't Connect
+04:10 PM IgnoreMe
+04:10 PM Error IgnoreMe http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446826206740 Unable to connect.
+04:10 PM *** Banks Complete
+Batch bank -> 17 retries
+04:10 PM a66711515
+ Retry Error a66711515 Can't Connect
+04:10 PM b66711515
+ Retry Error b66711515 Can't Connect
+04:10 PM a13798528950
+ Error Jimmybean13 Can't Connect
+04:13 PM Jimmybean14
+ Retry Error a13798528950 Can't Connect
+04:36 PM 121212
+ Retry Error 121212 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446827770647 Unable to connect.
+04:36 PM k025937
+ Error Jimmybean14 Can't Connect
+04:39 PM Jimmybean15
+ Retry Error k025937 Can't Connect
+05:02 PM a98421771
+ Error Jimmybean15 Can't Connect
+05:05 PM Jimmybean16
+ Retry Error a98421771 Can't Connect
+05:27 PM b98421771
+ Error Jimmybean16 Can't Connect
+05:30 PM Jimmybean17
+ Error Jimmybean17 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446831057160 Unable to connect.
+05:30 PM Jimmybean18
+ Retry Error b98421771 Can't Connect
+05:53 PM Jimmybean
+ Retry Error Jimmybean http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.8.0&_tm_=1446832430989 Unable to connect.
+05:53 PM Numerous
+ Retry Error Numerous Can't Connect
+05:53 PM IgnoreHim
+ Retry Error IgnoreHim Can't Connect
+05:53 PM OkSmall
+ Error Jimmybean18 Can't Connect
+05:56 PM Jimmybean19
+ Retry Error OkSmall Can't Connect
+06:19 PM TimeWill
+ Error Jimmybean19 Can't Connect
+06:22 PM Jimmybean20
+ Retry Error TimeWill Can't Connect
+06:30 PM ArghDam
+ Retry Error ArghDam Can't Connect
+06:31 PM Tomfoolery
+ Retry Error Tomfoolery Can't Connect
+06:31 PM TomdickHary
+ Error Jimmybean20 Can't Connect
+06:48 PM Jimmybean21
+08:51 PM TomdickHary batch v1.2.7
+08:51 PM Numerous batch v1.2.7
+08:51 PM Tomfoolery batch v1.2.7
+08:51 PM Joesmith batch v1.2.7
+08:51 PM Comwine batch v1.2.7
+08:51 PM OkSmall batch v1.2.7
+08:51 PM TimeWill batch v1.2.7
+08:51 PM ArghDam batch v1.2.7
+08:51 PM IgnoreHim batch v1.2.7
+08:51 PM IgnoreMe batch v1.2.7
+10:09 PM DynastyD batch v1.2.7
+10:09 PM DynastyA batch v1.2.7
+10:09 PM Uhg batch v1.2.7
+10:09 PM Delta1 batch v1.2.7
+10:09 PM Youtube1 batch v1.2.7
+10:09 PM Carol03 batch v1.2.7
+10:09 PM DynastyC batch v1.2.7
+10:09 PM SameSame batch v1.2.7
+10:09 PM WorldOne batch v1.2.7
+10:09 PM DynastyE batch v1.2.7

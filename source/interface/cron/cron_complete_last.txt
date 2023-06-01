@@ -1,0 +1,112 @@
+ Retry Error IgnoreMe46 Can't Connect
+12:27 AM IgnoreMe47
+ Retry Error IgnoreHim27 Can't Connect
+12:28 AM IgnoreHim28
+ Retry Error Tomfoolery3 Can't Connect
+12:29 AM Tomfoolery4
+ Retry Error OkSmall20 Can't Connect
+12:31 AM OkSmall21
+ Retry Error Comwine17 Can't Connect
+12:31 AM Comwine18
+ Retry Error TimeWill3 Can't Connect
+12:32 AM TimeWill4
+ Retry Error IgnoreMe33 Can't Connect
+12:33 AM IgnoreMe34
+ Retry Error OkSmall2 Can't Connect
+12:33 AM OkSmall3
+ Retry Error IgnoreHim46 Can't Connect
+12:33 AM IgnoreHim47
+ Retry Error IgnoreHim47 Can't Connect
+12:34 AM IgnoreHim48
+ Retry Error Numerous47 Can't Connect
+12:35 AM Numerous48
+ Retry Error Joesmith20 Can't Connect
+12:36 AM Joesmith21
+ Retry Error ArghDam49 Can't Connect
+12:37 AM ArghDam50
+ Retry Error Numerous48 Can't Connect
+12:37 AM Numerous49
+ Retry Error Joesmith28 Can't Connect
+12:37 AM Joesmith29
+ Retry Error Tomfoolery4 Can't Connect
+12:39 AM Tomfoolery5
+ Retry Error Tomfoolery5 {"res_code":12001,"error_msg":"This account is currently unusable.<BR>(12001)"}
+12:40 AM Tomfoolery6
+ Retry Error OkSmall21 Can't Connect
+12:41 AM OkSmall22
+ Retry Error Comwine18 Can't Connect
+12:42 AM Comwine19
+ Retry Error TimeWill4 Can't Connect
+12:42 AM TimeWill5
+ Retry Error IgnoreMe34 Can't Connect
+12:43 AM IgnoreMe35
+ Retry Error OkSmall3 Can't Connect
+12:44 AM OkSmall4
+ Retry Error IgnoreHim48 Can't Connect
+12:44 AM IgnoreHim49
+ Retry Error Comwine7 Can't Connect
+12:45 AM Comwine8
+ Retry Error Joesmith21 Can't Connect
+12:46 AM Joesmith22
+ Retry Error Comwine8 http://common.kingdom-conquest2.com/socialsv/common/Auth.do world_id=1045&kc_id=Comwine8&password=Comwine1&language=1&check_code=1.4.7&cid=&serial=&_tm_=1421974034951 Unable to connect.
+12:47 AM Comwine9
+ Retry Error ArghDam50 Can't Connect
+12:47 AM ArghDam1
+ Retry Error ArghDam1 {"res_code":12001,"error_msg":"This account is currently unusable.<BR>(12001)"}
+12:47 AM ArghDam2
+ Retry Error ArghDam2 {"res_code":12001,"error_msg":"This account is currently unusable.<BR>(12001)"}
+12:47 AM ArghDam3
+ Retry Error Numerous49 Can't Connect
+12:48 AM Numerous50
+ Retry Error Joesmith29 Can't Connect
+12:48 AM Joesmith30
+ Retry Error Numerous50 {"res_code":12001,"error_msg":"This account is currently unusable.<BR>(12001)"}
+12:48 AM Numerous1
+ Retry Error Numerous1 http://common.kingdom-conquest2.com/socialsv/common/StartUpCheck.do language=1&check_code=1.4.7.0&_tm_=1421974098110 Unable to connect.
+12:48 AM Numerous2
+ Retry Error Numerous2 Can't Connect
+12:48 AM Numerous3
+ Retry Error Numerous3 Can't Connect
+12:48 AM Numerous4
+ Retry Error OkSmall22 Can't Connect
+01:16 AM OkSmall23
+ Retry Error OkSmall23 {"res_code":12001,"error_msg":"This account is currently unusable.<BR>(12001)"}
+01:17 AM OkSmall24
+ Retry Error OkSmall24 Can't Connect
+01:27 AM OkSmall25
+ Retry Error OkSmall25 Can't Connect
+01:28 AM OkSmall26
+ Retry Error OkSmall26 {"res_code":12001,"error_msg":"This account is currently unusable.<BR>(12001)"}
+01:28 AM OkSmall27
+ Retry Error OkSmall27 Can't Connect
+01:38 AM OkSmall28
+01:59 AM Carol03 batch v1.2.7
+01:59 AM Youtube1 batch v1.2.7
+01:59 AM SameSame batch v1.2.7
+01:59 AM DynastyD batch v1.2.7
+01:59 AM Carol031
+01:59 AM Youtube11
+01:59 AM SameSame1
+01:59 AM DynastyD1
+01:59 AM DynastyC batch v1.2.7
+01:59 AM DynastyC1
+01:59 AM WorldOne batch v1.2.7
+01:59 AM DynastyE batch v1.2.7
+01:59 AM WorldOne1
+01:59 AM DynastyE1
+01:59 AM Delta1 batch v1.2.7
+01:59 AM Delta11
+01:59 AM DynastyA batch v1.2.7
+01:59 AM DynastyA1
+01:59 AM Uhg batch v1.2.7
+01:59 AM Uhg11
+ Error Delta11 Can't Connect
+01:59 AM Delta12
+ Error DynastyA1 Can't Connect
+01:59 AM DynastyA2
+ Error WorldOne1 {"res_code":12001,"error_msg":"This account is currently unusable.<BR>(12001)"}
+01:59 AM WorldOne2
+ Error Uhg11 Can't Connect
+01:59 AM Uhg12
+ Error DynastyC1 http://common.kingdom-conquest2.com/socialsv/common/Auth.do world_id=1045&kc_id=DynastyC1&password=Delta001&language=1&check_code=1.4.7.0&cid=&serial=&_tm_=1421978415596 Unable to connect.
+02:00 AM DynastyC2
