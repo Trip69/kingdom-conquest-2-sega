@@ -1,0 +1,39 @@
+/*
+body, html {
+    max-width:500px;
+}
+*/
+img, div{
+    width:100%;
+    max-width:400px;
+    text-align:center;
+}
+
+ td {
+    text-align: right;     
+ }
+
+p, a, h1 {
+    text-align: center;
+}
+
+a:hover {
+}
+
+#container {
+    max-width:400px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#center {
+    text-align: center;
+}
+
+#left, .left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}

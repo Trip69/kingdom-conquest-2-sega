@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Expires" content="Fri, Jan 01 1900 00:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Lang" content="en">
+<meta name="author" content="">
+<meta http-equiv="Reply-to" content="@.com">
+<meta name="generator" content="PhpED 6.0">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="creation-date" content="06/01/2011">
+<meta name="revisit-after" content="15 days">
+<meta name="viewport" content="width=420" />
+<title>Account Details</title>
+<script language="JavaScript" type="text/javascript">
+function uniqueid(id) {
+    document.getElementById("u_id").value  = id;
+}
+</script>
+<link rel="stylesheet" type="text/css" href="interface/template/kc.css">
+</head>
+<body>
+<div id="container">
+    <img align="middle" src="kc2.jpg" alt="kc2">
+    <p>X0X</p>
+    <h1>Sell SR/R</h1>
+    <form action="interface/kc_sell.php" method="post" target="_self">
+        <table align="center">
+            <tr><td>ID</td><td><input id="u_id" type="text" name="id" /></td></tr>
+            <tr><td>Price</td><td><input type="text" name="price" value="10" /></td></tr>
+            <tr><td>Sale Account World</td>
+                <td><select name="world">
+                    <option value="45">1</option>
+                    <option value="40">2</option>
+                    <option value="42">3</option>
+                    <option value="32">5</option>
+                    <option value="36">6</option>
+                    <option value="24">20</option>
+                    <option value="31">26</option>
+                    <option value="34">28</option>
+                    <option value="39">31</option>
+                    <option value="43">33</option>
+                    <option value="44">KC1</option>
+                </select></td></tr>
+                <tr>
+                    <td>Sale Device</td>
+                    <td>
+                        <select name="device" id="device">
+                        <option value="android">Android</option>
+                        <option value="apple">Apple</option>
+                        </select>
+                    </td>
+                </tr>
+
+            <tr><td>Sale Account Cookie</td><td><input type="text" name="cookie" width="51" /></td></tr>
+            <tr><td colspan="2" style="text-align: center;"><input type="submit" value="Sell" /></td></tr>
+        </table>
+    </form>
+    <h1>Transfer All DP</h1>
+    <form action="kc2ah.php" method="post" target="_self">
+        <table align="center">
+        <tr><td>Race</td>
+        <td>
+            <select name="race">
+                <option value="0">Bug</option>
+                <option value="1">Beast</option>
+                <option value="2">D-Human</option>
+                <option value="3">Undead</option>
+                <option value="4">Spirit</option>
+                <option value="5">Crypitd</option>
+                <option value="6">Giant</option>
+                <option value="7">Demon</option>
+                <option value="8">Dragon</option>
+            </select>
+        </td>
+        </tr>
+        <tr><td>Rarity</td>
+        <td>
+            <select name="rarity">
+                <option value="0">Common</option>
+                <option value="1">UnCommon</option>
+                <option value="2">Rare</option>
+                <option value="3">Super Rare</option>
+            </select>
+        </td>
+        <tr><td>Name</td><td><input name="name" type="text"></input></td></tr>
+        <tr><td>Price</td>
+        <td>
+            <input name="price" type="text" value="10" />
+            <input name="cookie" type="hidden" value="X1X">
+            <input name="dp" type="hidden" value="X2X">
+            <input name="world" type="hidden" value="X3X">
+            <input name="device" type="hidden" value="X4X">
+        </td>
+        <tr><td colspan="2" style="text-align: center;"><input type="submit" value="Buy"></td></tr>
+        </table>
+    </form>
+    <p><a href="http://www.somedodgywebsite.com/images/kc/KC2dp.html">Back</a></p>
+</div>
+</body>
+</html>

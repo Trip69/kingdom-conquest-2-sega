@@ -1,0 +1,481 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Expires" content="Fri, Jan 01 1900 00:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Lang" content="en">
+<meta name="author" content="Never You Mind">
+<meta http-equiv="Reply-to" content="@.com">
+<meta name="generator" content="PhpED 6.0">
+<meta name="description" content="KC2 Device Workaround">
+<meta name="creation-date" content="06/01/2011">
+<meta name="revisit-after" content="15 days">
+<meta name="viewport" content="width=420" />
+<script language="JavaScript" type="text/javascript">
+
+        /*
+        //username=BrokenIt&password=OoopsBroken1&device=android&world=43&current=1
+        var url;
+        url="http://www.somedodgywebsite.com/images/kc/kc2.php?";
+        url+="username="+document.getElementById("username").value;
+        url+="&password="+document.getElementById("password").value;
+        url+="&device="+document.getElementById("device").value;
+        url+="&world="+document.getElementById("world").value;
+        url+="&current=0";
+        window.open(url,"Logon",null,false);
+        
+        if (a==1) break;
+        */
+
+function logon_all() {
+    document.getElementById("login_form").target="_blank";
+
+    var accountselect;
+    accountselect = document.getElementById("account");
+
+    if (accountselect.selectedIndex==0)
+        loginchange();
+    document.getElementById("login_form").submit();
+    
+    if (accountselect.selectedIndex < accountselect.length -1) {
+        accountselect.selectedIndex += 1;
+        loginchange();
+    }
+    document.getElementById("login_form").target="_self";
+}
+
+function loginchange() {
+    var value;
+    value = document.getElementById("account").value;
+
+    //document.getElementById("batch").checked = true;
+    document.getElementById("world").selectedIndex  = 0;
+    document.getElementById("device").selectedIndex  = 0;
+    document.getElementById("username").value = value;
+    document.getElementById("password").value = value + "1";
+    
+    switch (value) {
+        //World 1 (45)
+        case 'TomdickHary':
+            document.getElementById("device").selectedIndex  = 1;
+            document.getElementById("password").value = 'Tomdick!1';
+            break;
+        case 'Tomfoolery':
+            document.getElementById("device").selectedIndex  = 1;
+            document.getElementById("password").value = 'Tomfoolery1!';
+            break;
+        case 'Joesmith':
+            document.getElementById("password").value = 'Joesmith*2';
+        case 'IgnoreMe':
+            document.getElementById("world").selectedIndex  = 0;
+            break;
+        //Apple
+        case 'Comwine':
+            document.getElementById("device").selectedIndex  = 1;
+            break;
+        case 'Uhg':
+            document.getElementById("device").selectedIndex  = 1;
+            document.getElementById("password").value = 'Asdfghjk1';
+            break;
+        //Passwords
+        //World KC1 (44)
+        case 'WorldOne':
+        case 'SameSame':
+            document.getElementById("world").selectedIndex  = 10;
+            break;
+        case 'Youtube1':
+            document.getElementById("password").value = 'Youtube2';
+            document.getElementById("world").selectedIndex  = 10;
+            break;            
+        case 'Carol03':
+            document.getElementById("password").value = 'Dade2254';
+            document.getElementById("world").selectedIndex  = 10;
+            break;
+        //World 33 (43)
+        case 'BrokenIt':
+            document.getElementById("password").value = 'OoopsBroken1';
+            document.getElementById("world").selectedIndex  = 9;
+            break;
+    }
+}
+</script>
+<title>KC2 Acconts for Batgig Users</title>
+<link rel="stylesheet" type="text/css" href="interface/template/kc.css">
+</head>
+
+    <body>
+    <div id="container">
+        <img align="middle" src="kc2.jpg" alt="kc2">
+            <p style="font-weight: bold;">This page is PRIVATE for Batgig users only</p>
+            
+            <h1>Links</h1>
+            <form target="_self" method="get" action="interface/kc_alt_log.php">
+            <table>
+            <tr>
+                <td>Draw Log World </td>
+                <td>
+                    <select name="world">
+                        <option value="45">1</option>
+                        <option value="40">2</option>
+                        <option value="42">3</option>
+                        <option value="32">5</option>
+                        <option value="36">6</option>
+                        <option value="24">20</option>
+                        <option value="31">26</option>
+                        <option value="34">28</option>
+                        <option value="39">31</option>
+                        <option value="43">33</option>
+                        <option value="44">KC1</option>
+                    </select>
+                </td>
+                <td>
+                    <select name="what">
+                        <option value="sr">SR</option>
+                        <option value="skill">Skill XP</option>
+                        <option value="r">Rare</option>
+                        <option value="ah">Non AH</option>
+                        <option value="srr">SR&amp;R</option>
+                        <option value="race_0">Bugs</option>
+                        <option value="race_1">Beast</option>
+                        <option value="race_2">DHuman</option>
+                        <option value="race_3">Undead</option>
+                        <option value="race_4">Spirit</option>
+                        <option value="race_5">Cryptid</option>
+                        <option value="race_6">Giant</option>
+                        <option value="race_7">Demon</option>
+                        <option value="race_8">Dragon</option>
+                        <option value="sxp_0">Skill xp Bugs</option>
+                        <option value="sxp_1">Skill xp Beast</option>
+                        <option value="sxp_2">Skill xp DHuman</option>
+                        <option value="sxp_3">Skill xp Undead</option>
+                        <option value="sxp_4">Skill xp Spirit</option>
+                        <option value="sxp_5">Skill xp Cryptid</option>
+                        <option value="sxp_6">Skill xp Giant</option>
+                        <option value="sxp_7">Skill xp Demon</option>
+                        <option value="sxp_8">Skill xp Dragon</option>
+                        <option value="nahr_0">Non AH Bugs</option>
+                        <option value="nahr_1">Non AH Beast</option>
+                        <option value="nahr_2">Non AH DHuman</option>
+                        <option value="nahr_3">Non AH Undead</option>
+                        <option value="nahr_4">Non AH Spirit</option>
+                        <option value="nahr_5">Non AH Cryptid</option>
+                        <option value="nahr_6">Non AH Giant</option>
+                        <option value="nahr_7">Non AH Demon</option>
+                        <option value="nahr_8">Non AH Dragon</option>
+                        <option value="nahr_9">Non AH Enhancer</option>
+                        <option value="all">All</option>
+                    </select>
+                </td>
+                <!--<td>All<input type="checkbox" name="view_all" value="true"></td>-->
+                <td>
+                    <input type="submit" value="View">
+                </td>
+            </tr>
+            </table>
+            </form>
+            <form target="_self" method="get" action="interface/kc_alt_dp.php">
+            <table>
+            <tr>
+                <td>Rich List </td>
+                <td>
+                    <select name="world">
+                        <option value="45">1</option>
+                        <option value="40">2</option>
+                        <option value="42">3</option>
+                        <option value="32">5</option>
+                        <option value="36">6</option>
+                        <option value="24">20</option>
+                        <option value="31">26</option>
+                        <option value="34">28</option>
+                        <option value="39">31</option>
+                        <option value="43">33</option>
+                        <option value="44">KC1</option>
+                    </select>
+                </td>
+                <td>
+                    <select name="sort">
+                        <option value="dp">DP</option>
+                        <option value="sxp">Skill XP</option>
+                        <option value="cards">Cards</option>
+                        <option value="cp">CP</option>
+                        <option value="account">Account</option>
+                    </select>
+                </td>
+                <td>
+                    <input type="submit" value="View">
+                </td>
+            </tr>
+            </table>
+            </form>
+            <form target="_self" method="get" action="interface/kc_sale_log.php">
+            <table>
+            <tr>
+                <td>Sale Log World </td>
+                <td>
+                    <select name="world">
+                        <option value="45">1</option>
+                        <option value="40">2</option>
+                        <option value="42">3</option>
+                        <option value="32">5</option>
+                        <option value="36">6</option>
+                        <option value="24">20</option>
+                        <option value="31">26</option>
+                        <option value="34">28</option>
+                        <option value="39">31</option>
+                        <option value="43">33</option>
+                        <option value="44">KC1</option>
+                    </select>
+                </td>
+                <td>
+                    <select name="what">
+                        <option value="noalt">Non Alt</option>
+                        <option value="sr">SR</option>
+                        <option value="srr">SR&amp;R</option>
+                        <option value="skill">Skill XP</option>
+                        <option value="awake">Awake</option>
+                        <option value="r">R</option>
+                        <option value="uc">UC</option>
+                        <option value="c">C</option>
+                        <option value="all">All</option>
+                    </select>
+                </td>
+                <td>
+                    <input type="submit" value="View">
+                </td>
+            </tr>
+            </table>
+            </form>
+
+            <form target="_self" method="get" action="interface/kc_dead.php">
+            <table>
+            <tr>
+                <td>Dead Accounts World </td>
+                <td>
+                    <select name="world">
+                        <option value="45">1</option>
+                        <option value="40">2</option>
+                        <option value="42">3</option>
+                        <option value="32">5</option>
+                        <option value="36">6</option>
+                        <option value="24">20</option>
+                        <option value="31">26</option>
+                        <option value="34">28</option>
+                        <option value="39">31</option>
+                        <option value="43">33</option>
+                        <option value="44">KC1</option>
+                    </select>
+                </td>
+                <td>
+                    <input type="submit" value="View">
+                </td>
+            </tr>
+            </table>
+            </form>
+
+            <form target="_self" method="get" action="interface/kc_alt_awake.php">
+            <table>
+            <tr>
+                <td>Awake Log World </td>
+                <td>
+                    <select name="world">
+                        <option value="45">1</option>
+                        <option value="40">2</option>
+                        <option value="42">3</option>
+                        <option value="32">5</option>
+                        <option value="36">6</option>
+                        <option value="24">20</option>
+                        <option value="31">26</option>
+                        <option value="34">28</option>
+                        <option value="39">31</option>
+                        <option value="43">33</option>
+                        <option value="44">KC1</option>
+                    </select>
+                </td>
+                <td>
+                    <input type="submit" value="View">
+                </td>
+            </tr>
+            </table>
+            </form>
+            
+            <p><a href="http://www.somedodgywebsite.com/images/kc/interface/sell_order.php">Sell Order</a></p>
+            <p><a href="http://www.somedodgywebsite.com/images/kc/KC2dp.html" target="_blank">Alt Sell / Buy</a></p>
+            <p><a href="http://www.somedodgywebsite.com/images/kc/interface/kc2_interface.html" target="_blank">KC2 Interface</a></p>
+            
+            <h1>Accounts</h1>
+            <table align="center">
+            <tr>
+                <td>Account</td>
+                <td>
+                    <select id="account" onchange="loginchange()">
+                        <option>Jimmybean</option>
+                        <option>Numerous</option>
+                        <option>Comwine</option>
+                        <option>IgnoreHim</option>
+                        <option>OkSmall</option>
+                        <option>TimeWill</option>
+                        <option>ArghDam</option>
+                        <option>Tomfoolery</option>
+                        <option>TomdickHary</option>
+                        <option>Joesmith</option>
+                        <option>IgnoreMe</option>
+                        <option>Uhg</option>
+                        <option>WorldOne</option>
+                        <option>Carol03</option>
+                        <option>SameSame</option>
+                        <option>Youtube1</option>
+                        <option>BrokenIt</option>
+                    </select>
+                </td>
+            </tr>
+            <tr><td id="center" colspan="2"><input type="button" value="Logon" onclick="logon_all();" /></td></tr>
+            </table>
+
+            <h1>Alts on one device workaround</h1>
+            <p>Use the details of the account you have just finished play with.</p>
+            <form id="login_form" action="interface/kc_alt_login.php" method="post" name="Login" target="_self">
+            <table align="center">
+                <tr>
+                    <td class="right">Device</td>
+                    <td class="left">
+                        <select id="device" name="device">
+                            <option value="android">Android</option>
+                            <option value="apple">Apple</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="right">World</td>
+                    <td class="left">
+                        <select id="world" name="world">
+                            <option value="45">1</option>
+                            <option value="40">2</option>
+                            <option value="42">3</option>
+                            <option value="32">5</option>
+                            <option value="36">6</option>
+                            <option value="24">20</option>
+                            <option value="31">26</option>
+                            <option value="34">28</option>
+                            <option value="39">31</option>
+                            <option value="43">33</option>
+                            <option value="44">KC1</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="right">KCID</td>
+                    <td><input id="username" name="username" type="text" /></td>
+                </tr>
+                <tr>
+                    <td class="right">Password</td>
+                    <td><input id="password" name="password" type="text" /></td>
+                </tr>
+                <tr>
+                    <td class="right">List Tickets</td>
+                    <td class="left"><input type="checkbox" name="tickets" value="check"></td>
+                </tr>
+                <tr>
+                    <td class="right">Draw Tickets</td>
+                    <td id="left"><input type="checkbox" name="draw" value="check"></td>
+                </tr>
+                <tr>
+                    <td class="right">List Presents</td>
+                    <td class="left"><input type="checkbox" name="presents" value="check"></td>
+                </tr>
+<!--
+                <tr>
+                    <td class="right">Arena Attack</td>
+                    <td class="left">
+                        <select id="arena" name="arena">
+                            <option value="0">None</option>
+                            <option value="6019">W1 Trip</option>
+                            <option value="5535">W1 Shar</option>
+                            <option value="3252">W1 Path</option>
+                            <option value="2223">W1 Hannnnnky</option>
+                            <option value="136">W1 Lipkix</option>
+                            <option value="618">KC1 Crimson</option>
+                            <option value="951">KC1 Pathuis</option>
+                        </select>
+                    </td>
+                </tr>
+-->
+                <tr>
+                    <td class="right">C ID</td>
+                    <td><input name="cid" type="text" /></td>
+                </tr>
+                <tr>
+                    <td class="right">Serial</td>
+                    <td><input name="serial" type="text" /></td>
+                </tr>
+                <tr>
+                    <td class="right">Batch Logon 1 to 50</td>
+                    <td class="left">
+                        <input id="batch" type="checkbox" name="batch" value="true">
+                    </td>
+                </tr>
+                <tr><td id="center" colspan="2"><input name="logon" type="submit" value="Reset" /></td></tr>
+            </table>
+            <input type="hidden" name="batgig" value="true">
+            <input type="hidden" name="reset_cookie" value="true">
+            </form>
+            <h1>
+                Create New Account
+            </h1>
+                <form action="kc2ca.php" method="post" name="Login" target="_self">
+                <table align="center">
+                <tr>
+                    <td class="right">Device</td>
+                    <td class="left"><select name="device"><option value="android">Android</option><option value="apple">Apple</option></select></td>
+                </tr>
+                <tr>
+                    <td class="right">World</td>
+                    <td class="left">
+                        <select name="world">
+                            <option value="45">1</option>
+                            <option value="40">2</option>
+                            <option value="42">3</option>
+                            <option value="32">5</option>
+                            <option value="36">6</option>
+                            <option value="24">20</option>
+                            <option value="31">26</option>
+                            <option value="34">28</option>
+                            <option value="39">31</option>
+                            <option value="43">33</option>
+                            <option value="44">KC1</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="right">KCID</td>
+                    <td><input name="username" type="text" /><br /></td>
+                </tr>
+                <tr>
+                    <td class="right">Password</td>
+                    <td><input name="password" type="text" /><br /></td>
+                </tr>
+                <tr>
+                    <td class="right">Nickname</td>
+                    <td><input name="nick" type="text" /></td>
+                </tr>
+                <tr>
+                    <td class="right">InviteCode</td>
+                    <td><input name="invite" type="text" /><br /></td>
+                </tr>
+                <tr>
+                    <td class="right">Don't create kcid just join world</td>
+                    <td class="left"><input type="checkbox" name="nokcid" value="check"><br /></td>
+                </tr>
+                <tr>
+                    <td class="right">Create Batch of 50</td>
+                    <td class="left"><input type="checkbox" name="batch" value="check"><br /></td>
+                </tr>
+                <tr>
+                    <td colspan="2" id="center"><input name="logon" type="submit" value="Create" /></td>
+                </tr>
+                </table>
+            </form>
+        </div>
+    </body>
+</html>
