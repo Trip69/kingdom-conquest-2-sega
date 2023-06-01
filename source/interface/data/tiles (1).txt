@@ -1,0 +1,88 @@
+0,None
+100,Open Area
+1000,Woods
+1010,Forest
+1100,Crags
+1110,Mountain
+1200,Iron Mine
+1210,Great Iron Mine
+3000,Withered Forest
+3010,Monster Nest
+3020,Eroded Mountain
+3030,Abandoned Mine
+3040,Charred Field
+3060,Purple Prison
+3070,Rouge Prison
+3080,Green Prison
+3090,Yellow Prison
+3100,Blue Prison
+5000,Old Castle
+5010,Citadel
+5020,Fortress
+6000,Military Base
+6100,Catapult
+6200,Resource Base
+6300,Frontier Base
+6400,Defense Base
+10000,Road
+10100,Sawmill
+10110,Lumber Mill
+10120,Great Lumber Factory
+10200,Stoneworks
+10210,Quarry
+10220,Great Quarry
+10300,Ironworks
+10310,Iron Factory
+10320,Great Iron Factory
+10400,Warehouse
+10410,Great Warehouse
+10500,Academy
+10600,House of Vitality
+10700,Tavern
+10800,Doom Guild
+10900,City Hall
+11000,Shop
+11010,Great Shop
+11100,Residence
+11110,Mansion
+11200,Dispensary
+11300,Beacon
+11400,Well
+11500,Trading Post
+11600,Merchant Hall
+11610,Grand Market
+11620,Royal Mall
+11700,Production Ministry
+20000,Commander's House
+20100,Military Academy
+20200,Tower of Training
+20300,Monster Barracks
+20310,Great Monster Barracks
+20400,Bug Research Lab
+20500,Beast Research Lab
+20510,Cryptid Research Lab
+20600,Demihuman Rsrch. Lab
+20610,Giant Research Lab
+20700,Undead Research Lab
+20710,Demon Research Lab
+20800,Spirit Research Lab
+20810,Dragon Research Lab
+20900,Blacksmith
+21100,Field Hospital
+21200,Orb Mount
+21300,Ballista
+21400,Watchtower
+21500,Repository
+21600,Underground Archive
+22000,Monster Analysis Lab
+22100,Command Council
+30000,Heroic Statue
+30200,Guardian Shrine
+30300,War God Shrine
+30800,Cemetery
+30900,Reprocessing Plant
+31000,Banner
+31100,Mystic Spring
+31200,Guild Hall
+31300,Altar of Abundance
+31400,Wind God Shrine

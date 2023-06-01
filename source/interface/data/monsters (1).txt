@@ -1,0 +1,1141 @@
+10000100,Centipede
+10000101,Centipede
+10000202,Scolopendra
+10000212,★Scolopendra
+10000222,◆Scolopendra
+10000300,Spider
+10000301,Spider
+10000401,Tarantula
+10000402,Tarantula
+10000500,Soldier Ant
+10000501,Soldier Ant
+10000602,Armored Ant
+10000612,★Armored Ant
+10000622,◆Armored Ant
+10000703,Queen Ant
+10000713,★Queen Ant
+10000723,◆Queen Ant
+10000802,Huge Moth
+10000900,Moth Larva
+10001003,Oistros
+10001013,★Oistros
+10001023,◆Oistros
+10001101,Gigant Mantis
+10001201,Deathscythe
+10001202,Deathscythe
+10001212,★Deathscythe
+10001222,◆Deathscythe
+10001301,Chrysalis
+10001403,Partisan Ant
+10001413,★Partisan Ant
+10001423,◆Partisan Ant
+10001502,Hunter Bee
+10001512,★Hunter Bee
+10001522,◆Hunter Bee
+10001601,Stinger Bee
+10001703,Hive Queen Bee
+10001713,★Hive Queen Bee
+10001723,◆Hive Queen Bee
+10001803,Moonlight Butterfly
+10001903,Cannon Beetle
+10001913,★Cannon Beetle
+10001923,◆Cannon Beetle
+10002003,Metal Scorpion
+10002102,Giant Scorpion
+10002202,Itzpapalotl
+10002301,Twin Tail Scorpion
+10002401,Rockbite Scorpion
+10002503,Shell Crawler
+10002603,Karkinos
+10002702,Crawler
+10002712,★Crawler
+10002722,◆Crawler
+10002803,Holy Night Butterfly
+10002903,Holy Night Butterfly
+10003003,Ungoliant
+10003103,Bomber Moth
+10003203,Shelob
+10003303,Thunder Beetle
+10003403,Evil Eye Moth
+10003503,Flower Mantis
+10003603,Smoky Crawler
+10003702,Fungus Moth
+10003802,Lou Carcolh Crawler
+10003903,Gas Tanker Fly
+10004003,Holy Night Butterfly'
+10004103,Executioner
+10004203,Dragonfly
+10004303,Arthropleura
+10070003,Queen Ant
+10070013,★Queen Ant
+10070023,◆Queen Ant
+10070103,Cannon Beetle
+10070113,★Cannon Beetle
+10070123,◆Cannon Beetle
+10070203,Partisan Ant
+10070213,★Partisan Ant
+10070223,◆Partisan Ant
+10070303,Twin Cannon Beetle
+10070403,Moonlight Butterfly
+10090000,Insect Orb
+10090001,Insect Orb
+10090002,Insect Orb
+10090003,Insect Orb
+10090004,Insect High Orb
+10090005,Insect Arcana
+10090006,Insect Arcana
+10090007,Insect Mist
+10090008,Insect Mist
+10090009,Insect Arcana＋
+10090010,Insect Arcana＋
+10090400,Insect High Orb
+10090401,Insect High Orb
+10090402,Insect High Orb
+10090403,Insect High Orb
+10100100,Dire Wolf
+10100101,Dire Wolf
+10100102,Dire Wolf
+10100202,Gytrash
+10100212,★Gytrash
+10100222,◆Gytrash
+10100600,Bat
+10100701,Giant Bat
+10100802,Vampire Bat
+10100812,★Vampire Bat
+10100822,◆Vampire Bat
+10100900,Viper
+10100901,Viper
+10101003,Basilisk
+10101103,Cockatrice
+10101113,★Cockatrice
+10101123,◆Cockatrice
+10101203,War Elephant
+10101213,★War Elephant
+10101223,◆War Elephant
+10101302,Vorpal Bunny
+10101312,★Vorpal Bunny
+10101322,◆Vorpal Bunny
+10101401,Sabertooth Tiger
+10101402,Sabertooth Tiger
+10101503,Smilodon
+10101701,Peryton
+10101702,Peryton
+10101801,Barghest
+10101900,Borogove
+10101901,Borogove
+10102003,Najash
+10102013,★Najash
+10102023,◆Najash
+10102101,Dodo
+10102203,Gwyllgi
+10102213,★Gwyllgi
+10102223,◆Gwyllgi
+10102302,Achaierai
+10102402,Easter Bunny
+10102502,Dodo
+10102512,★Dodo
+10102522,◆Dodo
+10102602,Bunyip
+10102703,Ysgithyrwyn 
+10102713,★Ysgithyrwyn 
+10102723,◆Ysgithyrwyn 
+10102802,Gold Slime
+10102903,Camazotz
+10102913,★Camazotz
+10102923,◆Camazotz
+10103002,Direwolf
+10103003,Direwolf
+10103103,Grootslang
+10103202,Yowie
+10103303,Al-mi'raj
+10103401,Jackalope
+10103402,Jackalope
+10103502,Axe Beak
+10103603,Dire Hawk
+10103613,★Dire Hawk
+10103623,◆Dire Hawk
+10103702,Gukumatz
+10103803,Phaia
+10103902,Asp
+10104002,Grangach
+10104103,Borogove
+10104203,Grizzly Mammoth
+10104302,Calydonian Boar
+10104402,Mastodon
+10104602,Plesiosaurus
+10104702,Ichthyosaur
+10104803,Cath Palug
+10104902,Tatzelwurm
+10105002,Pteranodon
+10105103,Cockatrice
+10105113,★Cockatrice
+10105123,◆Cockatrice
+10105202,Golden Borogove
+10105203,Golden Borogove
+10105303,Gytrash
+10105313,★Gytrash
+10105323,◆Gytrash
+10105402,Archaeopteryx
+10105503,Airavata
+10105603,Guiafairo
+10105702,Seruma
+10105803,Borogove
+10105903,Wolpertinger
+10106001,Owlbear
+10106101,Black Shuck
+10106203,Ambulocetus
+10106303,Andrewsarchus
+10106403,Kongamato
+10106502,Axehandle Hound
+10106603,Borogove'
+10106702,Bearwolf
+10106803,Capelthwaite
+10106903,Irusan
+10107003,Aniwye
+10150004,Cerberus
+10150104,Cerberus
+10150202,Caduceus
+10150303,Gumberoo
+10150403,Alicanto
+10150502,Jaculus
+10150602,Billdad
+10150702,Sliver Cat
+10170003,War Elephant
+10170013,★War Elephant
+10170023,◆War Elephant
+10170102,Dodo
+10170203,War Elephant
+10170303,Borogove
+10170402,Full Moon Bunny
+10170403,Full Moon Bunny
+10170503,Full Moon Bunny
+10170603,Borogove
+10170703,Borogove
+10170803,Borogove
+10190000,Beast Orb
+10190001,Beast Orb
+10190002,Beast Orb
+10190003,Beast Orb
+10190004,Beast High Orb
+10190005,Beast Arcana
+10190006,Beast Arcana
+10190007,Beast Mist
+10190008,Beast Mist
+10190009,Beast Arcana＋
+10190010,Beast Arcana＋
+10190400,Beast High Orb
+10190401,Beast High Orb
+10190402,Beast High Orb
+10190403,Beast High Orb
+10200101,Unicorn
+10200201,Kelpie
+10200402,Pegasus
+10200503,Phoenix
+10200601,Roc
+10200703,Behemoth
+10200713,★Behemoth
+10200723,◆Behemoth
+10200801,Humbaba
+10200901,Hippogryph
+10201003,Sleipnir
+10201013,★Sleipnir
+10201023,◆Sleipnir
+10201101,Catoblepas
+10201202,Griffin
+10201303,Chimera
+10201403,Kraken
+10201601,Hresvelgr
+10201602,Hresvelgr
+10201702,Hippocampus
+10201712,★Hippocampus
+10201722,◆Hippocampus
+10201802,Harpy
+10201812,★Harpy
+10201822,◆Harpy
+10201902,Hellhound
+10201912,★Hellhound
+10201922,◆Hellhound
+10202003,Fenrir
+10202013,★Fenrir
+10202023,◆Fenrir
+10202102,Orthros
+10202112,★Orthros
+10202122,◆Orthros
+10202201,Achlis
+10202301,Jubjub
+10202401,Shock
+10202503,Manticore
+10202602,Simorgh
+10202702,Ammit
+10202703,Ammit
+10202802,Serpopard
+10202812,★Serpopard
+10202822,◆Serpopard
+10202903,Peluda
+10203003,Zlatorog
+10203013,★Zlatorog
+10203023,◆Zlatorog
+10203101,Bicorn
+10203203,Androsphinx
+10203303,Thunderbird 
+10203402,Stymphalian Bird
+10203503,Anzu
+10203513,★Anzu
+10203523,◆Anzu
+10203602,Caladrius
+10203703,Bennu
+10203802,Hieracosphinx
+10203902,Criosphinx
+10204003,Red-Nosed Achlis
+10204102,Valravn
+10204203,Red-Nosed Achlis
+10204303,Phoenix
+10204403,Indrik
+10204503,Ceryneian Hind
+10204602,Suhurmasu
+10204702,Swamfisk
+10204802,Camelopard
+10204903,Gudanna
+10205003,Aenbharr
+10205103,Amalthea
+10205202,Lailaps
+10205303,Akhlut
+10205403,Cetus
+10205503,Odontotyrannus
+10205603,Failinis
+10205703,Ku'urkil
+10205802,Bonnacon
+10205902,Wakinyan
+10206003,Geryon
+10206103,Az-I-Wu-Gum-Ki-Mukh-'Ti
+10206202,Calygreyhound
+10206303,Camahueto
+10206402,Camphur
+10206503,Tabakea
+10206603,Parandus
+10206703,Mishipeshu
+10206802,Questing Beast
+10206903,Red-Nosed Achlis'
+10207003,Zmaj Ognjeni Vuk
+10207103,Opinicus
+10207203,Buraq
+10207303,Ai Tojon
+10207403,Kirimu
+10207503,Calopus
+10207603,Alphyn
+10250004,Sphinx
+10250104,Sphinx
+10270003,Armored Bucephalus
+10270103,Sphinx
+10270202,Hellhound
+10270212,★Hellhound
+10270222,◆Hellhound
+10270303,Hellhound
+10270313,★Hellhound
+10270323,◆Hellhound
+10290000,Cryptids Orb
+10290001,Cryptids Orb
+10290002,Cryptids Orb
+10290003,Cryptids Orb
+10290004,Cryptids High Orb
+10290005,Cryptid Arcana
+10290006,Cryptid Arcana
+10290007,Cryptid Mist
+10290008,Cryptid Mist
+10290009,Cryptid Arcana＋
+10290010,Cryptid Arcana＋
+10290400,Cryptids High Orb
+10290401,Cryptids High Orb
+10290402,Cryptids High Orb
+10290403,Cryptids High Orb
+10300100,Goblin Fighter
+10300101,Goblin Fighter
+10300200,Goblin Archer
+10300201,Goblin Archer
+10300302,Goblin Rider
+10300312,★Goblin Rider
+10300322,◆Goblin Rider
+10300403,Goblin Lord
+10300413,★Goblin Lord
+10300423,◆Goblin Lord
+10300500,Orc
+10300501,Orc
+10300601,Orc Mage
+10300703,Orc Chief
+10300713,★Orc Chief
+10300723,◆Orc Chief
+10301101,Werewolf
+10301300,Lizardman
+10301301,Lizardman
+10301402,Guardian Lizardman
+10301501,Royal Lizardman
+10301502,Royal Lizardman
+10301512,★Royal Lizardman
+10301522,◆Royal Lizardman
+10301601,Centaur
+10301803,Lizardman Trooper
+10301813,★Lizardman Trooper
+10301823,◆Lizardman Trooper
+10301902,Goblin Slinger
+10302002,Centaur Javelineer
+10302102,Rogue Werewolf
+10302203,Goblin Battering Ram
+10302302,Assassin Werewolf
+10302403,Centaurus Legatus
+10302413,★Centaurus Legatus
+10302423,◆Centaurus Legatus
+10302502,Centaurus Centurion
+10302512,★Centaurus Centurion
+10302522,◆Centaurus Centurion
+10302603,King Lizardman
+10302613,★King Lizardman
+10302623,◆King Lizardman
+10302702,Orc Armor Knight
+10302712,★Orc Armor Knight
+10302722,◆Orc Armor Knight
+10302803,Goblin Princess
+10302813,★Goblin Princess
+10302823,◆Goblin Princess
+10302902,Orc Ballista
+10303003,Orc Chariot
+10303013,★Orc Chariot
+10303023,◆Orc Chariot
+10303103,Orc Swordmaster
+10303113,★Orc Swordmaster
+10303123,◆Orc Swordmaster
+10303202,Werewolf Lady
+10303212,★Werewolf Lady
+10303222,◆Werewolf Lady
+10303302,Goblin Fireworks
+10303402,Orc Wizard
+10303503,Queen Lizardman
+10303603,Gold Werewolf
+10303703,Werewolf Leader
+10303713,★Werewolf Leader
+10303723,◆Werewolf Leader
+10303802,Paladin Lizardman
+10303902,Werewolf
+10304003,Alpha Werewolf
+10304103,Centaur Domina
+10304203,Centaur Dux
+10304302,Pack Guard Werewolf
+10304403,Orc Barista
+10304602,Scop Werewolf
+10304702,Chaser Werewolf
+10304803,Sahagin Messiah
+10304903,Elder Sahagin
+10305002,Sahagin Knight
+10305102,Sahagin Warlock
+10305202,Sahagin Martyr
+10305301,Sahagin Enchanter
+10305401,Sahagin Navy
+10305501,Sahagin
+10305603,Werewolf Pack Mother
+10305703,Centaur Cannoneer
+10305801,Goblin Swordsman
+10305901,Lizardman Ranger
+10306001,Lizardman Lancer
+10306103,Goblin Princess
+10306203,Viceroy Lizardman
+10306301,Goblin Cook
+10306302,Goblin Cook
+10306402,Goblin Chef
+10306503,Goblin Juggernaut
+10306603,Sahagin Original
+10306703,Goblin Air Raider
+10306803,Lizardman Hero
+10306903,Werewolf Slayer
+10350003,Orc Swordmaster
+10350013,★Orc Swordmaster
+10350023,◆Orc Swordmaster
+10350103,Goblin Lord
+10350113,★Goblin Lord
+10350123,◆Goblin Lord
+10350202,Werewolf Lady
+10350304,Loup-Garou
+10350404,Loup-Garou
+10350503,Goblin Battering Ram
+10350603,Werewolf Lady
+10350703,Lovely Lizardman
+10370003,Werewolf Leader
+10370013,★Werewolf Leader
+10370023,◆Werewolf Leader
+10370103,Alpha Werewolf
+10390000,Demihuman Orb
+10390001,Demihuman Orb
+10390002,Demihuman Orb
+10390003,Demihuman Orb
+10390004,Demihuman High Orb
+10390005,Demihuman Arcana
+10390006,Demihuman Arcana
+10390007,Demihuman Mist
+10390008,Demihuman Mist
+10390009,Demihuman Arcana＋
+10390010,Demihuman Arcana＋
+10390400,Demihuman High Orb
+10390401,Demihuman High Orb
+10390402,Demihuman High Orb
+10390403,Demihuman High Orb
+10400101,Fire Golem
+10400201,Ice Golem
+10400303,Iron Golem
+10400313,★Iron Golem
+10400323,◆Iron Golem
+10400401,Cyclops
+10401201,Minotaur
+10401302,Minotaur Sergeant
+10401312,★Minotaur Sergeant
+10401322,◆Minotaur Sergeant
+10401403,Minotaur Colonel
+10401413,★Minotaur Colonel
+10401423,◆Minotaur Colonel
+10401503,Troll Launcher
+10401513,★Troll Launcher
+10401523,◆Troll Launcher
+10401603,Ettin
+10401613,★Ettin
+10401623,◆Ettin
+10401702,Troll Chemist
+10401712,★Troll Chemist
+10401722,◆Troll Chemist
+10401802,Skemaend
+10401902,Grave Golem
+10402002,Jewel Golem
+10402012,★Jewel Golem
+10402022,◆Jewel Golem
+10402101,Wendigo
+10402102,Wendigo
+10402112,★Wendigo
+10402122,◆Wendigo
+10402202,Nephilim
+10402302,Algae Golem
+10402401,Troll
+10402501,Troll Artillery
+10402601,Yeti
+10402703,Minotaur Commander
+10402713,★Minotaur Commander
+10402723,◆Minotaur Commander
+10402802,Minotaur Major
+10402902,Cyclops Crusher
+10402912,★Cyclops Crusher
+10402922,◆Cyclops Crusher
+10403001,Minotaur Battler
+10403103,Troll General
+10403113,★Troll General
+10403123,◆Troll General
+10403203,Ethlinn
+10403213,★Ethlinn
+10403223,◆Ethlinn
+10403301,Gigas
+10403402,Mokkurkalfi
+10403503,Vucub Caquix
+10403513,★Vucub Caquix
+10403523,◆Vucub Caquix
+10403603,Cacus
+10403703,Jotun
+10403803,Muspell
+10403903,Bres
+10404002,Enkidu
+10404102,Bergrisi
+10404202,Gudalim
+10404303,Octriallach
+10404403,Santa Troll 
+10404503,Santa Troll 
+10404602,Fomoire Highlander
+10404702,Fomoire Raider
+10404803,Upelluri
+10404903,Tethra
+10405002,Muspell
+10405103,Asterios
+10405203,Bres
+10405303,Skadi
+10405403,Sinmore
+10405502,Fomoire Highlander
+10405602,Artabatitae
+10405703,Ologhai Troll
+10405803,Tepegoz
+10405902,Direach
+10406003,Zipacna
+10406102,Orco
+10406203,Hekatoncheir
+10406303,Svyatogor
+10406403,Cailleach Bheur
+10406503,Auriaria
+10406603,Santa Troll '
+10450003,Troll General
+10450013,★Troll General
+10450023,◆Troll General
+10450104,Indich
+10450204,Indich
+10470003,White Winged Colossus
+10470103,Twisted Ettin
+10470203,Skeleton Minotaur
+10470303,Poseidon
+10470402,Ettin
+10470503,Titan
+10470603,Nuada
+10470703,Bergrisi
+10490000,Giant Orb
+10490001,Giant Orb
+10490002,Giant Orb
+10490003,Giant Orb
+10490004,Giant High Orb
+10490005,Giant Arcana
+10490006,Giant Arcana
+10490007,Giant Mist
+10490008,Giant Mist
+10490009,Giant Arcana＋
+10490010,Giant Arcana＋
+10490400,Giant High Orb
+10490401,Giant High Orb
+10490402,Giant High Orb
+10490403,Giant High Orb
+10500100,Zombie
+10500101,Zombie
+10500201,Ghoul
+10500303,Dragon Zombie
+10500400,Zombie Wolf
+10500502,Cyclops Zombie
+10500601,Zombie Goblin
+10500802,Banshee
+10500900,Ghost
+10500901,Ghost
+10501003,Liche
+10501013,★Liche
+10501023,◆Liche
+10501202,Ghede
+10501301,Skeleton Mage
+10501401,Skeleton Archer
+10501500,Skeleton Warrior
+10501501,Skeleton Warrior
+10501803,Dullahan
+10501813,★Dullahan
+10501823,◆Dullahan
+10502001,Vampire
+10502103,Vampire Lord
+10502113,★Vampire Lord
+10502123,◆Vampire Lord
+10502202,Sarcophagus
+10502302,Carmilla
+10502312,★Carmilla
+10502322,◆Carmilla
+10502402,Cultes des Goules
+10502502,Armored Skeleton
+10502512,★Armored Skeleton
+10502522,◆Armored Skeleton
+10502602,Taxim
+10502701,Mummy
+10502803,Draug
+10502902,Bandersnatch
+10502912,★Bandersnatch
+10502922,◆Bandersnatch
+10503003,Citipati
+10503102,Vampire Servant
+10503203,Nosferatu
+10503213,★Nosferatu
+10503223,◆Nosferatu
+10503302,Blood Mummy
+10503312,★Blood Mummy
+10503322,◆Blood Mummy
+10503403,Gwyn ap Nudd
+10503413,★Gwyn ap Nudd
+10503423,◆Gwyn ap Nudd
+10503501,Dhampir
+10503603,Osiris
+10503702,Cheshire Cat
+10503802,Vampire Servant
+10503903,Anubis
+10504002,Vampire Count
+10504102,Nyuni
+10504203,Vampire Prince
+10504303,Wadjet
+10504402,Ixtab
+10504502,Canine Zombie
+10504503,Canine Zombie
+10504603,Grim Reaper
+10504613,★Grim Reaper
+10504623,◆Grim Reaper
+10504702,Beast Mummy
+10504802,Pharaoh
+10504902,Dragon Tooth
+10505003,Present Sarcophagus
+10505203,Draug
+10505303,Eurynome
+10505402,Poltergeist
+10505502,Ectoplasm
+10505603,Wicker Man
+10505703,Coiste-bodhar
+10505802,Terror
+10505902,Scarecrow
+10506002,Skeleton Altar
+10506103,Morrigan
+10506202,Vampire Duchess
+10506301,Spike Mummy
+10506401,Vampire Baron
+10506503,Vampire Servant
+10506603,Flying Dutchman
+10506703,Globster
+10506803,Ankou
+10506903,Ahpuch
+10507003,Hel
+10507103,Mora
+10507203,Lee Yee
+10507302,Sluagh
+10507402,Palehorse
+10507502,Reaper
+10507602,Soul Eater
+10507702,Crusher
+10507803,Morrigan
+10507903,Vlad Tepes
+10508001,Noble Vampire
+10508101,Ectoplasm
+10508203,Baba Yaga
+10508303,Manananggal
+10550004,Isis
+10550104,Isis
+10550202,Gally-trot
+10550303,Koschei
+10550403,Heartbreak Banshee
+10570003,Vampire Lord
+10570102,Liche
+10570202,Sadako
+10570203,Sadako
+10570302,Sadako 
+10570303,Sadako 
+10570403,Dullahan
+10570413,★Dullahan
+10570423,◆Dullahan
+10570503,Dragon Zombie
+10570603,Dullahan
+10570613,★Dullahan
+10570623,◆Dullahan
+10570703,Vampire Lord
+10570713,★Vampire Lord
+10570723,◆Vampire Lord
+10570803,Nosferatu
+10570813,★Nosferatu
+10570823,◆Nosferatu
+10570903,Vampire Prince
+10571003,Morrigan
+10571103,Cheshire Cat
+10571203,Vampire Prince
+10590000,Undead Orb
+10590001,Undead Orb
+10590002,Undead Orb
+10590003,Undead Orb
+10590004,Undead High Orb
+10590005,Undead Arcana
+10590006,Undead Arcana
+10590007,Undead Mist
+10590008,Undead Mist
+10590009,Undead Arcana＋
+10590010,Undead Arcana＋
+10590400,Undead High Orb
+10590401,Undead High Orb
+10590402,Undead High Orb
+10590403,Undead High Orb
+10600101,Gargoyle
+10600201,Silver Gargoyle
+10600202,Silver Gargoyle
+10600212,★Silver Gargoyle
+10600222,◆Silver Gargoyle
+10600302,Gold Gargoyle
+10600312,★Gold Gargoyle
+10600322,◆Gold Gargoyle
+10600401,Imp
+10600601,Demon
+10600702,Archdemon
+10601401,Silver Hell Knight
+10601402,Silver Hell Knight
+10601502,Gold Hell Knight
+10601602,Lamia
+10601802,Incubus
+10601812,★Incubus
+10601822,◆Incubus
+10601902,Succubus
+10601912,★Succubus
+10601922,◆Succubus
+10602201,Hell Knight
+10602303,Belial
+10602313,★Belial
+10602323,◆Belial
+10602403,Pazuzu
+10602413,★Pazuzu
+10602423,◆Pazuzu
+10602503,Echidna
+10602513,★Echidna
+10602523,◆Echidna
+10602603,Ifrit
+10602613,★Ifrit
+10602623,◆Ifrit
+10602703,Crimson Gargoyle
+10602713,★Crimson Gargoyle
+10602723,◆Crimson Gargoyle
+10602803,Crimson Hell Knight
+10602813,★Crimson Hell Knight
+10602823,◆Crimson Hell Knight
+10602902,Greater Demon
+10603002,Empousa
+10603102,Doppelganger
+10603201,Lesser Demon
+10603303,Baphomet
+10603403,Medusa
+10603413,★Medusa
+10603423,◆Medusa
+10603503,Dantalion
+10603513,★Dantalion
+10603523,◆Dantalion
+10603603,Gaap
+10603613,★Gaap
+10603623,◆Gaap
+10603702,Scylla
+10603712,★Scylla
+10603722,◆Scylla
+10603802,Arachne
+10603903,Gremory
+10604002,A Bao A Qu
+10604103,Santaccubus
+10604203,Santaccubus
+10604303,Glasya-Labolas
+10604403,Berith
+10604502,Naberius
+10604603,Mimic
+10604702,Ketev Meriri
+10604802,Leraje
+10604902,Scylla
+10604912,★Scylla
+10604922,◆Scylla
+10605003,Morpheus
+10605103,Lilim
+10605201,Farfarello
+10605301,Calcabrina
+10605403,Pandemonium
+10605503,Abadon
+10605603,Ribesal
+10605703,Marchosias
+10605803,Lamashtu
+10605903,Dark Rider
+10606003,GREATER DEMON
+10606103,Creeping Coin
+10606202,Nisroc
+10606302,Albasta
+10606402,Zaebos
+10606502,Living Armor
+10606602,Succubus
+10606702,Lesser Demon
+10606802,Creeping Coin
+10606903,Adramelech
+10607003,Vine
+10607103,Demogorgon
+10607203,Botis
+10607303,Erinyes
+10607403,Knecht Ruprecht
+10607503,Santaccubus'
+10650003,Gaap
+10650013,★Gaap
+10650023,◆Gaap
+10650104,Lilith
+10650204,Lilith
+10670003,Sonic Pazuzu
+10670102,Jack
+10670103,Jack
+10670202,Snow White
+10670203,Snow White
+10670302,Takeru
+10670303,Takeru
+10670402,Little Red
+10670403,Little Red
+10670502,Robin
+10670503,Robin
+10670603,Echidna
+10670702,Chariot
+10670802,Aladdin
+10670803,Aladdin
+10670902,Kaguya Hime
+10670903,Kaguya Hime
+10671003,Morpheus
+10671103,Morpheus
+10690000,Demon Orb
+10690001,Demon Orb
+10690002,Demon Orb
+10690003,Demon Orb
+10690004,Demon High Orb
+10690005,Demon Arcana
+10690006,Demon Arcana
+10690007,Demon Mist
+10690008,Demon Mist
+10690009,Demon Arcana＋
+10690010,Demon Arcana＋
+10690400,Demon High Orb
+10690401,Demon High Orb
+10690402,Demon High Orb
+10690403,Demon High Orb
+10700101,Living Thorn
+10700203,Treant
+10700300,Mandragora
+10700401,Dryad
+10700703,Undine
+10700802,Salamander
+10700812,★Salamander
+10700822,◆Salamander
+10700902,Sylph
+10700903,Sylph
+10701100,Mermaid
+10701101,Mermaid
+10701301,Siren
+10701402,Lorelei
+10701800,Dwarf
+10701901,Dwarf Warrior
+10702103,High Salamander
+10702113,★High Salamander
+10702123,◆High Salamander
+10702203,Ice Queen
+10702213,★Ice Queen
+10702223,◆Ice Queen
+10702302,Dwarf Viking
+10702402,Unseelie
+10702412,★Unseelie
+10702422,◆Unseelie
+10702501,Ariel
+10702602,Ligneous Fighter
+10702700,Stormrider
+10702801,Djinn
+10702901,Seelie
+10703003,Rusalka
+10703013,★Rusalka
+10703023,◆Rusalka
+10703101,Ipiria
+10703102,Ipiria
+10703112,★Ipiria
+10703122,◆Ipiria
+10703202,Dwarf Axeman
+10703302,Vodianoi
+10703401,Jokul Frosti
+10703402,Jokul Frosti
+10703503,Oona
+10703603,Paralda
+10703703,Atar
+10703713,★Atar
+10703723,◆Atar
+10703802,Alraune
+10703812,★Alraune
+10703822,◆Alraune
+10703903,Mab
+10703913,★Mab
+10703923,◆Mab
+10704002,Jack-o'-Lantern B
+10704003,Jack-o'-Lantern B
+10704103,Finnbheara
+10704202,Blodeuwedd
+10704302,Ovinnik
+10704403,Irik
+10704503,Ara
+10704602,Will-o'-the-Wisp
+10704702,Water Leaper
+10704802,Jack-o'-Lantern R
+10704803,Jack-o'-Lantern R
+10704902,Jack-o'-Lantern G
+10704903,Jack-o'-Lantern G
+10705002,Jack-o'-Lantern Y
+10705003,Jack-o'-Lantern Y
+10705102,Jack-o'-Lantern P
+10705103,Jack-o'-Lantern P
+10705203,Flora
+10705213,★Flora
+10705223,◆Flora
+10705302,Peyote
+10705403,Eingana
+10705503,Wreath Thorn
+10705703,Mab
+10705713,★Mab
+10705723,◆Mab
+10705803,Peri
+10705902,Leuke
+10706002,Sandman
+10706102,Vetehinen
+10706103,Vetehinen
+10706203,Paralda
+10706303,Elf Windtalker
+10706403,Millennium Treant
+10706502,Fruitful Fighter
+10706603,Undine
+10706702,Elf Ulfhedinn
+10706802,Elf Shaman
+10706901,Wind Blade
+10707003,Rusalka
+10707103,Ice Queen
+10707113,★Ice Queen
+10707123,◆Ice Queen
+10707203,Svarog
+10707303,Iel
+10707403,Styx
+10707503,Hainuwele
+10707602,Leshy
+10707702,Zaltys
+10707802,Barometz
+10707903,Ice Queen
+10708001,Elf
+10708102,Skogsrå
+10708203,Snegurochka
+10708303,Tapio
+10708403,Pariacaca
+10708502,Faun
+10750003,Atar
+10750013,★Atar
+10750023,◆Atar
+10750104,Titania
+10750204,Titania
+10750303,Jack-o'-Lantern
+10750403,Ptesanwi
+10750502,Jack-o'-Lantern B'
+10750503,Jack-o'-Lantern B'
+10750602,Jack-o'-Lantern R'
+10750603,Jack-o'-Lantern R'
+10750702,Jack-o'-Lantern G'
+10750703,Jack-o'-Lantern G'
+10750802,Jack-o'-Lantern Y'
+10750803,Jack-o'-Lantern Y'
+10750902,Jack-o'-Lantern P'
+10750903,Jack-o'-Lantern P'
+10751003,Shotheart Rusalka
+10770002,Shiva
+10770003,Shiva
+10770103,Apsara
+10790000,Spirit Orb
+10790001,Spirit Orb
+10790002,Spirit Orb
+10790003,Spirit Orb
+10790004,Spirit High Orb
+10790005,Spirit Arcana
+10790006,Spirit Arcana
+10790007,Spirit Mist
+10790008,Spirit Mist
+10790009,Spirit Arcana＋
+10790010,Spirit Arcana＋
+10790400,Spirit High Orb
+10790401,Spirit High Orb
+10790402,Spirit High Orb
+10790403,Spirit High Orb
+10800101,Red Dragon
+10800201,Ice Dragon
+10800402,Amphisbaena
+10800503,Vritra
+10800513,★Vritra
+10800523,◆Vritra
+10800702,Lindwurm
+10800803,Muirdris
+10800901,Wyrm
+10801001,Giant Worm
+10801103,Hydra
+10801113,★Hydra
+10801123,◆Hydra
+10801202,Wyvern
+10801401,Old Wyvern
+10801503,Jabberwock
+10801513,★Jabberwock
+10801523,◆Jabberwock
+10801603,Pendragon
+10801613,★Pendragon
+10801623,◆Pendragon
+10801703,Ancient Dragon
+10801713,★Ancient Dragon
+10801723,◆Ancient Dragon
+10801802,Hydra Larva
+10801812,★Hydra Larva
+10801822,◆Hydra Larva
+10801902,Chaos Dragon
+10802001,Mushussu
+10802002,Mushussu
+10802012,★Mushussu
+10802022,◆Mushussu
+10802101,Lesser Wyvern
+10802201,Two-Headed Serpent
+10802301,Sea Serpent
+10802401,Heavy Dragon
+10802503,Yellow Dragon
+10802602,Cuelebre
+10802702,Pisuhand
+10802803,Nidhogg
+10802903,Vouivre
+10803003,Epirotes
+10803013,★Epirotes
+10803023,◆Epirotes
+10803102,Aitvaras
+10803202,Scitalis
+10803302,Stoorworm
+10803402,Bakunawa
+10803502,Tarasque
+10803603,Pendragon Cake
+10803703,Pendragon Cake
+10803803,Aspidochelon
+10803903,Azi Dahaka
+10804003,Falak
+10804103,Canhel
+10804202,Herensuge
+10804303,Cynoprosopi
+10804403,Apep
+10804503,Zirnitra
+10804602,Balaur
+10804702,Aghasura
+10804802,Guita
+10804903,Doonongaes
+10805003,Hollofernyiges
+10805102,Skahnowa
+10805203,Zmey
+10805302,Stollenwurm
+10805403,Pendragon Cake'
+10805503,Odz Manouk
+10805602,Gaasyendietha
+10850003,Vritra
+10850013,★Vritra
+10850023,◆Vritra
+10850104,Crom Cruach
+10850204,Crom Cruach
+10890000,Dragon Orb
+10890001,Dragon Orb
+10890002,Dragon Orb
+10890003,Dragon Orb
+10890004,Dragon High Orb
+10890005,Dragon Arcana
+10890006,Dragon Arcana
+10890007,Dragon Mist
+10890008,Dragon Mist
+10890009,Dragon Arcana＋
+10890010,Dragon Arcana＋
+10890400,Dragon High Orb
+10890401,Dragon High Orb
+10890402,Dragon High Orb
+10890403,Dragon High Orb
+17000104,Hiranyagarbha
+17000204,Hiranyagarbha
+19090000,Orb
+19090001,Orb
+19090002,Orb
+19090003,Orb
+19090004,High Orb
+19090005,MEGA DRIVE Orb
+19090006,MEGA DRIVE Orb
+19090007,Arcana
+19090008,Arcana
+19090009,MWC 2013 Orb
+19090010,MWC 2014 Orb
+19090400,High Orb
+19090401,High Orb
+19090402,High Orb
+19090403,High Orb
+19090803,De Palza Orb
+19090903,Buusuke Orb
+19091003,Button Eye Orb
+19091102,Valentine Orb
+19091103,Valentine Orb
+19091202,Valentine Orb
+19091203,Valentine Orb
+19091303,Mist
+19091402,Mist
+19091503,Arcana＋
+19091602,Arcana＋
+19091803,Nightmare Trickers
+19091903,
+19092003,Borogove Five
+19092103,LOVE 4ever
+19092203,
